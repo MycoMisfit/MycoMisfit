@@ -1,7 +1,7 @@
 ## Greetings 👋
 
 I am a mycologist whose research explores the diversity of macrofungi. 🍄🍄🍄
-My research uses DNA sequence data to study fugal diversity. This requires editing and analysis of sequence data from fungi.
+My research uses DNA sequence data to study fungal diversity. This requires editing and analysis of sequence data from fungi.
 
 Here are some of the projects I am involved in.
 - The application of high-throughput sequencing to study specimens from fungaria.
