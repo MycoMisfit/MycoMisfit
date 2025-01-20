@@ -1,4 +1,17 @@
-## Hi there 👋
+## Greetings 👋
+
+I am a mycologist whose research explores the diversity of macrofungi. 🍄🍄🍄
+My research uses DNA sequence data to study fugal diversity. This requires editing and analysis of sequence data from fungi.
+
+Here are some of the projects I am involved in.
+- The application of high-throughput sequencing to study specimens from fungaria.
+- Metabarcoding analysis to identify plant-associated fungi.
+- Analysis of fungal sequence data from soil and litter environments.
+
+Where my research is developing...
+- I am looking to develop my proficiency in both Python and R.
+- I am collaborating on a research proposal to study the diversity of the Thelephorales.
+- I am collaborating to incorporate macrofungi in North American natural heritage conservation plans.
 
 <!--
 **MycoMisfit/MycoMisfit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
